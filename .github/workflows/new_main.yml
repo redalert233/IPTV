@@ -49,6 +49,10 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add -A
 
+        if ! git diff --staged --quiet; then
+            git commit -m "Temporary commit before rebase"
+        fi
+        
         git fetch origin main
         git rebase origin/main
         
