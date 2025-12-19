@@ -4,7 +4,7 @@ source_urls = [
     "https://github.com/nuzmz/live-TV/blob/main/tv.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u",
-    "https://github.com/wcb1969/iptv/blob/main/咸阳移动.txt"
+    "https%3A%2F%2Fgithub.com%2Fwcb1969%2Fiptv%2Fblob%2Fmain%2F%E5%92%B8%E9%98%B3%E7%A7%BB%E5%8A%A8.txt"
 ]
 
 url_blacklist = [
