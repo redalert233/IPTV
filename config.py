@@ -3,7 +3,8 @@ ip_version_priority = "ipv6"
 source_urls = [
     "https://github.com/nuzmz/live-TV/blob/main/tv.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-    "https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u"
+    "https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u",
+    "https://github.com/wcb1969/iptv/blob/main/咸阳移动.txt"
 ]
 
 url_blacklist = [
