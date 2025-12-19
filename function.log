@@ -1,5 +1,7 @@
-2025-12-20 00:01:23,366 - INFO - url: https://github.com/nuzmz/live-TV/blob/main/tv.txt 获取成功，判断为txt格式
-2025-12-20 00:01:23,368 - INFO - url: https://github.com/nuzmz/live-TV/blob/main/tv.txt 爬取成功✅，包含频道分类: <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false
-2025-12-20 00:01:23,432 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 获取成功，判断为m3u格式
-2025-12-20 00:01:23,435 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 爬取成功✅，包含频道分类: 4K频道, 央视频道, 央视高清, 央视标清, 咪咕央视, 卫视频道, 备用频道, 移动IPTV, 数字频道, APTV专享, APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png, BXTV频道, 港澳代理, 港澳台频道, IHOT频道, NewTV频道, 咪咕赛事, 动画频道, 虎牙影视, 斗鱼影视, 电视剧频道, 埋堆堆频道, 点播电影, ☘️北京频道, ☘️上海频道, ☘️浙江频道, ☘️湖南频道, ☘️四川频道, ☘️辽宁频道, ☘️广东频道, ☘️江苏频道, ☘️河南频道, ☘️河北频道, ☘️陕西频道, ☘️安徽频道, ☘️湖北频道, ☘️福建频道, ☘️海南频道, ☘️黑龙江频道, ☘️内蒙古频道, 地方频道, 春晚频道, 国际频道
-2025-12-20 00:01:23,766 - INFO - url: https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u 获取成功，判断为txt格式
+2025-12-20 00:31:02,232 - INFO - url: https://github.com/nuzmz/live-TV/blob/main/tv.txt 获取成功，判断为txt格式
+2025-12-20 00:31:02,233 - INFO - url: https://github.com/nuzmz/live-TV/blob/main/tv.txt 爬取成功✅，包含频道分类: <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false
+2025-12-20 00:31:02,289 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 获取成功，判断为m3u格式
+2025-12-20 00:31:02,292 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 爬取成功✅，包含频道分类: 4K频道, 央视频道, 央视高清, 央视标清, 咪咕央视, 卫视频道, 备用频道, 移动IPTV, 数字频道, APTV专享, APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png, BXTV频道, 港澳代理, 港澳台频道, IHOT频道, NewTV频道, 咪咕赛事, 动画频道, 虎牙影视, 斗鱼影视, 电视剧频道, 埋堆堆频道, 点播电影, ☘️北京频道, ☘️上海频道, ☘️浙江频道, ☘️湖南频道, ☘️四川频道, ☘️辽宁频道, ☘️广东频道, ☘️江苏频道, ☘️河南频道, ☘️河北频道, ☘️陕西频道, ☘️安徽频道, ☘️湖北频道, ☘️福建频道, ☘️海南频道, ☘️黑龙江频道, ☘️内蒙古频道, 地方频道, 春晚频道, 国际频道
+2025-12-20 00:31:02,970 - INFO - url: https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u 获取成功，判断为txt格式
+2025-12-20 00:31:03,639 - INFO - url: https://github.com/wcb1969/iptv/blob/main/咸阳移动.txt 获取成功，判断为txt格式
+2025-12-20 00:31:03,641 - INFO - url: https://github.com/wcb1969/iptv/blob/main/咸阳移动.txt 爬取成功✅，包含频道分类: <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false
