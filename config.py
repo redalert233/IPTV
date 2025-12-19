@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://github.com/redalert233/iptv-resource/blob/main/xyyh.txt",
+    "https://github.com/redalert233/iptv-resource/blob/main/xyyd.txt",
     "https://github.com/nuzmz/live-TV/blob/main/tv.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u",
