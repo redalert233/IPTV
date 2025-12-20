@@ -1,8 +1,9 @@
-2025-12-20 10:05:24,740 - INFO - url: https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt 获取成功，判断为txt格式
-2025-12-20 10:05:24,743 - INFO - url: https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt 爬取成功✅，包含频道分类: 央视, 香港, 卫视, 陕西, 其他, 山东, 北京, 上海, 吉林, 央视频, 甘肃移动易视腾IPv6
-2025-12-20 10:05:26,219 - ERROR - url: https://gitee.com/hw2837/iptv/raw/master/iptv.txt 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://gitee.com/hw2837/iptv/raw/master/iptv.txt
-2025-12-20 10:05:26,349 - INFO - url: https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt 获取成功，判断为txt格式
-2025-12-20 10:05:26,350 - INFO - url: https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt 爬取成功✅，包含频道分类: 央视, 卫视, 山西, 数字, 超级, NewTV, 海外, 轮播, 咪咕
-2025-12-20 10:05:26,828 - INFO - url: https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u 获取成功，判断为txt格式
-2025-12-20 10:05:26,957 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 获取成功，判断为m3u格式
-2025-12-20 10:05:26,960 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 爬取成功✅，包含频道分类: 4K频道, 央视频道, 央视高清, 央视标清, 咪咕央视, 卫视频道, 备用频道, 移动IPTV, 数字频道, APTV专享, APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png, BXTV频道, 港澳代理, 港澳台频道, IHOT频道, NewTV频道, 咪咕赛事, 动画频道, 虎牙影视, 斗鱼影视, 电视剧频道, 埋堆堆频道, 点播电影, ☘️北京频道, ☘️上海频道, ☘️浙江频道, ☘️湖南频道, ☘️四川频道, ☘️辽宁频道, ☘️广东频道, ☘️江苏频道, ☘️河南频道, ☘️河北频道, ☘️陕西频道, ☘️安徽频道, ☘️湖北频道, ☘️福建频道, ☘️海南频道, ☘️黑龙江频道, ☘️内蒙古频道, 地方频道, 春晚频道, 国际频道
+2025-12-21 05:47:46,687 - INFO - url: https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt 获取成功，判断为txt格式
+2025-12-21 05:47:46,690 - INFO - url: https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt 爬取成功✅，包含频道分类: 央视, 香港, 卫视, 陕西, 其他, 山东, 北京, 上海, 吉林, 央视频, 甘肃移动易视腾IPv6
+2025-12-21 05:47:49,029 - INFO - url: https://gitee.com/hw2837/iptv/raw/master/iptv.txt 获取成功，判断为txt格式
+2025-12-21 05:47:49,030 - INFO - url: https://gitee.com/hw2837/iptv/raw/master/iptv.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 4K频道, 其他频道, 地方频道, 粤语频道, 赛事咪咕
+2025-12-21 05:47:49,129 - INFO - url: https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt 获取成功，判断为txt格式
+2025-12-21 05:47:49,131 - INFO - url: https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt 爬取成功✅，包含频道分类: 央视, 卫视, 山西, 数字, 超级, NewTV, 海外, 轮播, 咪咕
+2025-12-21 05:47:49,556 - INFO - url: https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u 获取成功，判断为txt格式
+2025-12-21 05:47:49,616 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 获取成功，判断为m3u格式
+2025-12-21 05:47:49,619 - INFO - url: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 爬取成功✅，包含频道分类: 4K频道, 央视频道, 央视高清, 央视标清, 咪咕央视, 卫视频道, 备用频道, 移动IPTV, 数字频道, APTV专享, APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png, BXTV频道, 港澳代理, 港澳台频道, IHOT频道, NewTV频道, 咪咕赛事, 动画频道, 虎牙影视, 斗鱼影视, 电视剧频道, 埋堆堆频道, 点播电影, ☘️北京频道, ☘️上海频道, ☘️浙江频道, ☘️湖南频道, ☘️四川频道, ☘️辽宁频道, ☘️广东频道, ☘️江苏频道, ☘️河南频道, ☘️河北频道, ☘️陕西频道, ☘️安徽频道, ☘️湖北频道, ☘️福建频道, ☘️海南频道, ☘️黑龙江频道, ☘️内蒙古频道, 地方频道, 春晚频道, 国际频道
