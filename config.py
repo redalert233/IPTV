@@ -2,9 +2,9 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/redalert233/iptv-resource/refs/heads/main/xyyd.txt",
+    "https://gitee.com/hw2837/iptv/raw/master/iptv.txt",
     "https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-    "https://raw.githubusercontent.com/jjjay001/sy-iptv/refs/heads/main/ShaanxiTV.m3u",
     "https://raw.githubusercontent.com/jjjay001/sy-iptv/refs/heads/main/ShaanxiTV.m3u"
 ]
 
