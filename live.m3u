@@ -5,7 +5,7 @@ https://liuliuliu.tv/api/channels/1997/stream
 https://liuliuliu.tv/api/channels/233/stream
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
-#EXTINF:-1 tvg-id="1" tvg-name="2025-12-21" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-12-21
+#EXTINF:-1 tvg-id="1" tvg-name="2025-12-22" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-12-22
 https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重温经典.png" group-title="央视频道",重温经典
 https://www.wmviv.com/iptv/bc2t.php?id=cwjd$LR•IPV4『线路1』
