@@ -167,6 +167,7 @@ def updateChannelUrlsM3U(channels, template_channels):
 
 if __name__ == "__main__":
     try:
+        template_file = "demo.txt"
         channels, template_channels = filter_source_urls(template_file)
         updateChannelUrlsM3U(channels, template_channels)
         print("频道列表已成功生成到 live.m3u 和 live.txt 文件中")
