@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="G_CCTV-7-HD" tvg-name="CCTV-7高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-7.png" group-title="IPTV", CCTV-7高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="GDWS-HD" tvg-name="广东卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/guangdong.png" group-title="IPTV", 广东卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_JIANGSU-HD" tvg-name="江苏卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/jiangsu.png" group-title="IPTV", 江苏卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-17" tvg-name="CCTV-17" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/cctv17.png" group-title="IPTV", CCTV-17
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_HUAIJIUJC-CQ" tvg-name="怀旧剧场" tvg-logo="http://live.pic.gitv.tv/images/20220905/03/030f632fa0682b45b786e2685644d885.png" group-title="IPTV", 怀旧剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-WENHUA-CQ" tvg-name="央视文化精品" tvg-logo="http://live.pic.gitv.tv/images/20220905/da/dac5a5844ad1b136cb94186b3b20547b.png" group-title="IPTV", 央视文化精品
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_HUBEI-HD" tvg-name="湖北卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/hubei.png" group-title="IPTV", 湖北卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="BTV-1" tvg-name="北京卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/beijing.png" group-title="IPTV", 北京卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_SICHUAN-CQ" tvg-name="四川卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/sichuan.png" group-title="IPTV", 四川卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001284/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-14-HD" tvg-name="CCTV-14高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-14.png" group-title="IPTV", CCTV-14高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-4-HD" tvg-name="CCTV-4高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-4.png" group-title="IPTV", CCTV-4高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001290?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-11-HQ" tvg-name="CCTV-11高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-11.png" group-title="IPTV", CCTV-11高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_ANHUI-HD" tvg-name="安徽卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/anhui.png" group-title="IPTV", 安徽卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CETV-ZQJY-CQ" tvg-name="早期教育" tvg-logo="http://live.pic.gitv.tv/images/20250610/3f/3f5f9584c007139cfb32ba225941bd47.png" group-title="IPTV", 早期教育
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-9-HD" tvg-name="CCTV-9高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-9.png" group-title="IPTV", CCTV-9高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_BINGTUAN-HD" tvg-name="兵团卫视高清" tvg-logo="http://live.pic.gitv.tv/images/20250731/18/18bd92e2117fbb91ea59a87910e9c6c5.png" group-title="IPTV", 兵团卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001072/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-17-HD" tvg-name="CCTV-17高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/cctv17.png" group-title="IPTV", CCTV-17高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_FENGSHANGZQ-CQ" tvg-name="风云足球" tvg-logo="http://live.pic.gitv.tv/images/20220905/fd/fd90daa7a0161aea9e1a359847c71fb6.png" group-title="IPTV", 风云足球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_HENAN-CQ" tvg-name="河南卫视" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/henan.png" group-title="IPTV", 河南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_NVXINGSS-CQ" tvg-name="女性时尚" tvg-logo="http://live.pic.gitv.tv/images/20220905/22/22e2fa869e566ef0d4df578ee2f551e7.png" group-title="IPTV", 女性时尚
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_JINYINGJS-HD" tvg-name="金鹰纪实高清" tvg-logo="http://live.pic.gitv.tv/images/20200102/a8/a83fd6d3c755e89d6571b01ea616aa68.png" group-title="IPTV", 金鹰纪实高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_YUNNAN-HQ" tvg-name="云南卫视" tvg-logo="http://live.pic.gitv.tv/images/20191225/16/165691f36169462ed2e7589f59492fb8.png" group-title="IPTV", 云南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001271/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="HLJWS-HD" tvg-name="黑龙江卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/heilongjiang.png" group-title="IPTV", 黑龙江卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-6-HD" tvg-name="CCTV-6高清" tvg-logo="http://live.pic.gitv.tv/images/20200120/a3/a36be81e44ee5ba508478bb5fb285cee.png" group-title="IPTV", CCTV-6高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_QINGHAI-HQ" tvg-name="青海卫视" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/qinghai.png" group-title="IPTV", 青海卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001281/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-12-HD" tvg-name="CCTV-12高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-12.png" group-title="IPTV", CCTV-12高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_BINGQIKJ-CQ" tvg-name="兵器科技" tvg-logo="http://live.pic.gitv.tv/images/20220905/ad/addc0a4a856d4e62b1fdf9ea200a59e6.png" group-title="IPTV", 兵器科技
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_SHANDONG-MD" tvg-name="山东卫视高清12M" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/shandong.png" group-title="IPTV", 山东卫视高清12M
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_HAINAN-CQ" tvg-name="海南卫视高清" tvg-logo="http://live.pic.gitv.tv/images/20191224/76/768a435740aebee0326a001b8bbb0887.png" group-title="IPTV", 海南卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_XIZANG-HD" tvg-name="西藏卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/xizang.png" group-title="IPTV", 西藏卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001071/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJWS-HD" tvg-name="浙江卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/zhejiang.png" group-title="IPTV", 浙江卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_FENGYUNJC-CQ" tvg-name="风云剧场" tvg-logo="http://live.pic.gitv.tv/images/20220905/e0/e09d8ed16683a5e46fa7d017a25415d5.png" group-title="IPTV", 风云剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_SHANXI1-CQ" tvg-name="山西卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/shanxi1.png" group-title="IPTV", 山西卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_DIANSHIZN-CQ" tvg-name="电视指南" tvg-logo="http://live.pic.gitv.tv/images/20220905/1b/1b7e1bcb5a651cbf9085ddd6823abfd8.png" group-title="IPTV", 电视指南
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="HNWS-HD" tvg-name="湖南卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/hunan.png" group-title="IPTV", 湖南卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001027?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CHONGQING-HD" tvg-name="重庆卫视高清" tvg-logo="http://live.pic.gitv.tv/images/20191225/95/956eb3a8f2e319bcbde2e728b6f1bdcd.png" group-title="IPTV", 重庆卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_TIANJIN-MD" tvg-name="天津卫视高清12M" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/tianjin.png" group-title="IPTV", 天津卫视高清12M
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV-1-HD" tvg-name="CCTV-1高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-1.png" group-title="IPTV", CCTV-1高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-8-HD" tvg-name="CCTV-8高清" tvg-logo="http://live.pic.gitv.tv/images/20200120/97/97ea99419a3fe44455f87b283c75c9ec.png" group-title="IPTV", CCTV-8高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-10-HD" tvg-name="CCTV-10高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-10.png" group-title="IPTV", CCTV-10高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_ZHONGXUESHENG" tvg-name="中学生" tvg-logo="http://live.pic.gitv.tv/images/20250610/21/2154b3596af4120b7c28368784b8c516.png" group-title="IPTV", 中学生
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="SZWS-HD" tvg-name="深圳卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/shenzhen.png" group-title="IPTV", 深圳卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_XINJIANG-HD" tvg-name="新疆卫视" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/xinjiang.png" group-title="IPTV", 新疆卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001081/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_DIYIJC-CQ" tvg-name="第一剧场" tvg-logo="http://live.pic.gitv.tv/images/20220905/2f/2f9cdbf54b19a3c777facffc01b18e10.png" group-title="IPTV", 第一剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_SHIJIEDL-CQ" tvg-name="世界地理" tvg-logo="http://live.pic.gitv.tv/images/20220905/71/718d7716a12c857712f61a3a71bbdd0c.png" group-title="IPTV", 世界地理
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_NEIMENGGU-CQ" tvg-name="内蒙古卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/neimeng.png" group-title="IPTV", 内蒙古卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001287/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="DFWS-HD" tvg-name="东方卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/dongfang.png" group-title="IPTV", 东方卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-5PLUS" tvg-name="CCTV-5+高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-5jia.png" group-title="IPTV", CCTV-5+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_TAIQIU-CQ" tvg-name="央视台球" tvg-logo="http://live.pic.gitv.tv/images/20220905/a3/a3767128b20dcc4ab45c68ae4bd8b2a3.png" group-title="IPTV", 央视台球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-GOLF-CQ" tvg-name="高尔夫网球" tvg-logo="http://live.pic.gitv.tv/images/20220905/23/236ab85036547aa9532b769908569a8a.png" group-title="IPTV", 高尔夫网球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_FENGYUNYY-CQ" tvg-name="风云音乐" tvg-logo="http://live.pic.gitv.tv/images/20220905/c3/c340df2276543b05a17ab88c583b1b09.png" group-title="IPTV", 风云音乐
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_LIAONING-HD" tvg-name="辽宁卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/liaoning.png" group-title="IPTV", 辽宁卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-16-HQ" tvg-name="CCTV-16" tvg-logo="http://live.pic.gitv.tv/images/20220829/c3/c347be772b79b262fd3ad164dbbcf3a2.png" group-title="IPTV", CCTV-16
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-2-HD" tvg-name="CCTV-2高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-2.png" group-title="IPTV", CCTV-2高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_CCTV-13-HQ" tvg-name="CCTV-13高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/CCTV-13.png" group-title="IPTV", CCTV-13高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="G_NINGXIA-HQ" tvg-name="宁夏卫视高清" tvg-logo="http://live.pic.gitv.tv//images/livod_icon/20191224/ningxia.png" group-title="IPTV", 宁夏卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001282/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
