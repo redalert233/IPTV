@@ -5,7 +5,8 @@ source_urls = [
     "https://gitee.com/hw2837/iptv/raw/master/iptv.txt",
     "https://raw.githubusercontent.com/nuzmz/live-TV/refs/heads/main/tv.txt",
     "https://github.com/jjjay001/sy-iptv/blob/main/ShaanxiTV.m3u",
-    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "https://raw.githubusercontent.com/redalert233/iptv-api-master/refs/heads/master/output/result.txt"
 ]
 
 url_blacklist = [
